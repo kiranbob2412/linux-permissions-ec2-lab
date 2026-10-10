@@ -1,0 +1,8 @@
+*.pem
+*.key
+.env
+.env.*
+*.tfstate
+*.tfstate.*
+**/authorized_keys
+**/.ssh/
